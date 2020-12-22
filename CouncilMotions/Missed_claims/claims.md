@@ -4,28 +4,40 @@
 
 - [0x1AaB088C67CA7f3E1cB2d46695592de721476E77](validated/0x1AaB088C67CA7f3E1cB2d46695592de721476E77.md)
     - motion : 
+    - proposal hash : 
 - [0x7bc546ccdeeeed3edf296c19368fdd06ab181312](validated/0x7bc546ccdeeeed3edf296c19368fdd06ab181312.md)
     - motion : 
+    - proposal hash : 
 - [0x46d9e20356de75bb6840f5c17eadf87ce8a1db44](validated/0x46d9e20356de75bb6840f5c17eadf87ce8a1db44.md)
     - motion : 
+    - proposal hash : 
 - [0x6452a37e3f4be421ed036045343768d83ec304b7](validated/0x6452a37e3f4be421ed036045343768d83ec304b7.md)
     - motion : 
+    - proposal hash : 
 - [0x7067cb37fd844b628c6409dc1b10bbbd9e2748a5](validated/0x7067cb37fd844b628c6409dc1b10bbbd9e2748a5.md)
     - motion : 
+    - proposal hash : 
 - [0x17950bAF4911F11a0Fa9e0801d70b35D4Ab57673](validated/0x17950bAF4911F11a0Fa9e0801d70b35D4Ab57673.md)
     - motion : 
+    - proposal hash : 
 - [0xc1446fa016936c697bc76a1743f04a8c38dcb68f](validated/0xc1446fa016936c697bc76a1743f04a8c38dcb68f.md)
     - motion : 
+    - proposal hash : 
 - [0xca379126e788dc27c85890A48d059A2fdecF6f55](validated/0xca379126e788dc27c85890A48d059A2fdecF6f55.md)
     - motion : 
+    - proposal hash : 
 - [0xe69C88Fa3E71cD5256cfD6ceeF06d75Dd988036a](validated/0xe69C88Fa3E71cD5256cfD6ceeF06d75Dd988036a.md)
     - motion : 
+    - proposal hash : 
 - [0xe507bd10c075b86e9d12227f8d44005c466f9c00](validated/0xe507bd10c075b86e9d12227f8d44005c466f9c00.md)
     - motion : 
+    - proposal hash : 
 - [0x58f4E6DF2c444e72b7bac3B3f6E2B1b749f6578c](validated/0x58f4E6DF2c444e72b7bac3B3f6E2B1b749f6578c.md)
     - motion : 28
+    - proposal hash : 0xb6bd0dd2dd84e966125fe36a564c6febd704060ba87ec36e0b024c81efec1268
 - [0x0D1F568bcBEd9594366860153365Da855Cc46E5B](validated/0x0D1F568bcBEd9594366860153365Da855Cc46E5B.md)
     - motion : 
+    - proposal hash : 
 
 
 ### Pending:
