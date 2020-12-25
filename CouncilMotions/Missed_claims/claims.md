@@ -35,6 +35,7 @@
 - [0x58f4E6DF2c444e72b7bac3B3f6E2B1b749f6578c](validated/0x58f4E6DF2c444e72b7bac3B3f6E2B1b749f6578c.md)
     - motion : 28
     - proposal hash : 0xb6bd0dd2dd84e966125fe36a564c6febd704060ba87ec36e0b024c81efec1268
+    - status :  success
 - [0x0D1F568bcBEd9594366860153365Da855Cc46E5B](validated/0x0D1F568bcBEd9594366860153365Da855Cc46E5B.md)
     - motion : 
     - proposal hash : 
