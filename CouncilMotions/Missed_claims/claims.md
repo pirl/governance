@@ -13,7 +13,7 @@
 - [0x46d9e20356de75bb6840f5c17eadf87ce8a1db44](validated/0x46d9e20356de75bb6840f5c17eadf87ce8a1db44.md)
     - motion : 32
     - proposal hash : 0x215465b4e0a09222f2097b3a0160012080f81543d6549566c2ebddf4b188e6ab
-    - status :  in vote
+    - status :  done
 - [0x6452a37e3f4be421ed036045343768d83ec304b7](validated/0x6452a37e3f4be421ed036045343768d83ec304b7.md)
     - motion : 40
     - proposal hash : 0x5053eef80e4bebb55c41258e4381c917cb4030d2e94ec9b3e3ea8a5671b5bf5f
