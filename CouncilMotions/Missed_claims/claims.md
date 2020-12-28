@@ -48,7 +48,7 @@
 - [0x0D1F568bcBEd9594366860153365Da855Cc46E5B](validated/0x0D1F568bcBEd9594366860153365Da855Cc46E5B.md)
     - motion : 39
     - proposal hash : 0x9c4c3ddbb4f7bb762a29ca4dfa0a756717c70fe53d726d03dcde2c9532c32f43
-    - status :  in vote
+    - status :  success
 
 
 
