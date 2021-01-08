@@ -30,7 +30,7 @@
     - proposal hash : 0x377f6c999ab39b6d3798efe684c74fef27347860aff878b5f000045a09e78a3d
     - status :  in vote
 - [0xca379126e788dc27c85890A48d059A2fdecF6f55](validated/0xca379126e788dc27c85890A48d059A2fdecF6f55.md)
-    - motion : 36
+    - motion :  NEW 42.  ( 36 Failed call 0x606115337c088210a5e8406d27696d591bf6a2b320d1ba78fbb885abc3ea98d7)
     - proposal hash : 0x606115337c088210a5e8406d27696d591bf6a2b320d1ba78fbb885abc3ea98d7
     - status :  in vote
 - [0xe69C88Fa3E71cD5256cfD6ceeF06d75Dd988036a](validated/0xe69C88Fa3E71cD5256cfD6ceeF06d75Dd988036a.md)
