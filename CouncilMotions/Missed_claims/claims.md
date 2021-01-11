@@ -32,7 +32,7 @@
 - [0xca379126e788dc27c85890A48d059A2fdecF6f55](validated/0xca379126e788dc27c85890A48d059A2fdecF6f55.md)
     - motion :  NEW 42.  ( 36 Failed call 0x606115337c088210a5e8406d27696d591bf6a2b320d1ba78fbb885abc3ea98d7)
     - proposal hash : 0x606115337c088210a5e8406d27696d591bf6a2b320d1ba78fbb885abc3ea98d7
-    - status :  in vote
+    - status :  done > passed > in referanda
 - [0xe69C88Fa3E71cD5256cfD6ceeF06d75Dd988036a](validated/0xe69C88Fa3E71cD5256cfD6ceeF06d75Dd988036a.md)
     - motion : 37
     - proposal hash : 0x87382070aa36431723d01aeb2105c072c0e8f70460dc81cdb7e13759c1534791
