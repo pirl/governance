@@ -2,33 +2,34 @@
 
 ### Validated:
 
+- [0xd3047d0c04637564Cb4fD8164DC9B5678251C71c](validated/0xd3047d0c04637564Cb4fD8164DC9B5678251C71c.md)
+    - motion : 
+    - proposal hash : 
+    - status : 
 - [0x1AaB088C67CA7f3E1cB2d46695592de721476E77](validated/0x1AaB088C67CA7f3E1cB2d46695592de721476E77.md)
     - motion : 30
     - proposal hash : 0xdcc8ce00ac2bf518a51d4ece90b1726feab8a1540bb16f61f2d1fe63ddb3309d
     - status :  tech ok
 - [0x7bc546ccdeeeed3edf296c19368fdd06ab181312](validated/0x7bc546ccdeeeed3edf296c19368fdd06ab181312.md)
-    - motion : 31
-    - proposal hash : 0x049addf5f9b0e86047cadd5da251d47fc3e7c2463c636459bbf092d13cad61b8
-    - status :  in vote
+    - proposal hash : 0x377f6c999ab39b6d3798efe684c74fef27347860aff878b5f000045a09e78a3d
+    - GROUPED IN 0xd3047d0c04637564Cb4fD8164DC9B5678251C71c
 - [0x46d9e20356de75bb6840f5c17eadf87ce8a1db44](validated/0x46d9e20356de75bb6840f5c17eadf87ce8a1db44.md)
     - motion : 32
     - proposal hash : 0x215465b4e0a09222f2097b3a0160012080f81543d6549566c2ebddf4b188e6ab
     - status :  done
 - [0x6452a37e3f4be421ed036045343768d83ec304b7](validated/0x6452a37e3f4be421ed036045343768d83ec304b7.md)
-    - motion : 40
-    - proposal hash : 0x5053eef80e4bebb55c41258e4381c917cb4030d2e94ec9b3e3ea8a5671b5bf5f
+    - proposal hash : 0x377f6c999ab39b6d3798efe684c74fef27347860aff878b5f000045a09e78a3d
+    - GROUPED IN 0xd3047d0c04637564Cb4fD8164DC9B5678251C71c
 - [0x7067cb37fd844b628c6409dc1b10bbbd9e2748a5](validated/0x7067cb37fd844b628c6409dc1b10bbbd9e2748a5.md)
-    - motion : 33
-    - proposal hash : 0x1a4b5f90ff27febec186035bad4fbaabd6ff052072a3c51eb78f99eb74ad2fb9
-    - status :   tech ok ( index: 14, error: 7 )
+    - proposal hash : 0x377f6c999ab39b6d3798efe684c74fef27347860aff878b5f000045a09e78a3d
+    - GROUPED IN 0xd3047d0c04637564Cb4fD8164DC9B5678251C71c
 - [0x17950bAF4911F11a0Fa9e0801d70b35D4Ab57673](validated/0x17950bAF4911F11a0Fa9e0801d70b35D4Ab57673.md)
     - motion : 34
     - proposal hash : 0x3c5e655008e813d52c05388205667fccc8752da7ded06d925979df710f49943c
     - status :  in vote
 - [0xc1446fa016936c697bc76a1743f04a8c38dcb68f](validated/0xc1446fa016936c697bc76a1743f04a8c38dcb68f.md)
-    - motion : 35
     - proposal hash : 0x377f6c999ab39b6d3798efe684c74fef27347860aff878b5f000045a09e78a3d
-    - status :  in vote
+    - GROUPED IN 0xd3047d0c04637564Cb4fD8164DC9B5678251C71c
 - [0xca379126e788dc27c85890A48d059A2fdecF6f55](validated/0xca379126e788dc27c85890A48d059A2fdecF6f55.md)
     - motion :  NEW 42.  ( 36 Failed call 0x606115337c088210a5e8406d27696d591bf6a2b320d1ba78fbb885abc3ea98d7)
     - proposal hash : 0x606115337c088210a5e8406d27696d591bf6a2b320d1ba78fbb885abc3ea98d7
