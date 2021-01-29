@@ -1,0 +1,13 @@
+grouping 4 claims in one as it's the same user ( verified ) claim to 0xd3047d0c04637564Cb4fD8164DC9B5678251C71c
+
+difference new chain - old chain: -80000.0
+
+amount that need to be claimed in the new chain: 80000.0
+
+Masternodes coins moved during the snapshot, then it's not registered in the balance or in the contract
+
+Addresses:
+- [0xC1446fA016936c697Bc76A1743f04A8C38dcB68f](validated/0xC1446fA016936c697Bc76A1743f04A8C38dcB68f.md)
+- [0x6452a37e3f4be421ed036045343768d83ec304b7](validated/0x6452a37e3f4be421ed036045343768d83ec304b7.md)
+- [0x7067cb37fd844b628c6409dc1b10bbbd9e2748a5](validated/0x7067cb37fd844b628c6409dc1b10bbbd9e2748a5.md)
+- [0x7bc546ccdeeeed3edf296c19368fdd06ab181312](validated/0x7bc546ccdeeeed3edf296c19368fdd06ab181312.md)
