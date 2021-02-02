@@ -5,7 +5,7 @@
 - [0xd3047d0c04637564Cb4fD8164DC9B5678251C71c](validated/0xd3047d0c04637564Cb4fD8164DC9B5678251C71c.md)
     - motion : 43
     - proposal hash : 0x045c1850c88b833fdfc20cd34183454de20aaa0ccb5ff8aa1e257d5a88723969
-    - status : in vote
+    - status : done https://explorer.pirl.network/#/explorer/query/0xde3b7ef819433ac0a14830cae0b27859041db508312219dfe13bf237c6aafab6
 - [0x1AaB088C67CA7f3E1cB2d46695592de721476E77](validated/0x1AaB088C67CA7f3E1cB2d46695592de721476E77.md)
     - motion : 30
     - proposal hash : 0xdcc8ce00ac2bf518a51d4ece90b1726feab8a1540bb16f61f2d1fe63ddb3309d
