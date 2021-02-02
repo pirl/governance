@@ -2,6 +2,22 @@
 
 ### Validated:
 
+- [0x5e816EF081FF41e0583aa3b96fa2F9Dcc35d31d5](validated/0x5e816EF081FF41e0583aa3b96fa2F9Dcc35d31d5.md)
+    - motion : 44
+    - proposal hash : 0x8b3405349bae3860bed3b625eb3b645d37c1cee38f298e82e51fec3b30da8d1d
+    - status : in vote
+- [0x5e816EF081FF41e0583aa3b96fa2F9Dcc35d31d5](validated/0x0f65e5D560320A2FcC45E869aC9d883469871298.md)
+    - motion : 45
+    - proposal hash : 0x86641788562e6eca56b4e099d5fa7b376205c962a412b5da9bff89aa6a579104
+    - status : in vote
+- [0xAF996c250fc8565DD18957184bC8e0fbF8C5b01e](validated/0xAF996c250fc8565DD18957184bC8e0fbF8C5b01e.md)
+    - motion : 46
+    - proposal hash : 0x315d13e2c57c927392506f55851e145100f4bbf25be1e04f382a758612ea8951
+    - status : in vote
+- [0x3b52de1baa24e864d017d8c192fa3b8c9c8e76b2](validated/0x3b52de1baa24e864d017d8c192fa3b8c9c8e76b2.md)
+    - motion : 47
+    - proposal hash : 0xbbfcf071b10f045c800c5443b9e4768561838be81b75408dc95ee040ca5c166e
+    - status : in vote
 - [0xd3047d0c04637564Cb4fD8164DC9B5678251C71c](validated/0xd3047d0c04637564Cb4fD8164DC9B5678251C71c.md)
     - motion : 43
     - proposal hash : 0x045c1850c88b833fdfc20cd34183454de20aaa0ccb5ff8aa1e257d5a88723969
@@ -55,9 +71,8 @@
 
 ### Pending:
 
-- [0x3b52de1baa24e864d017d8c192fa3b8c9c8e76b2](pending/0x3b52de1baa24e864d017d8c192fa3b8c9c8e76b2.md)
+
 - [0x8E8bD9Fef163a2B001F885d24F5Abe54e36A89B6](pending/0x8E8bD9Fef163a2B001F885d24F5Abe54e36A89B6.md)
-- [0xAF996c250fc8565DD18957184bC8e0fbF8C5b01e](pending/0xAF996c250fc8565DD18957184bC8e0fbF8C5b01e.md)
 - [0xFEc2B842595b1721A7305f8eaC163C2145211F16](pending/0xFEc2B842595b1721A7305f8eaC163C2145211F16.md)
 
 
@@ -68,3 +83,5 @@
 - [0x57b216684980d179F85d692BE27F7BB16849694F](rejected/0x57b216684980d179F85d692BE27F7BB16849694F.md)
 - [0xb3c0a90ac4e9299c361c6ff4b3bd6dc1258b3efd](rejected/0xb3c0a90ac4e9299c361c6ff4b3bd6dc1258b3efd.md)
 - [0xf565A4A26A65b8e13c38Bd2e80A02B7e1A3986db](rejected/0xf565A4A26A65b8e13c38Bd2e80A02B7e1A3986db.md)
+- [0xCfc6A394a8fac4aef51dF0B35692c749bb28E856](rejected/0xCfc6A394a8fac4aef51dF0B35692c749bb28E856.md)
+    - below existential deposit
