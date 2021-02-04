@@ -51,7 +51,7 @@
     - proposal hash : 0x606115337c088210a5e8406d27696d591bf6a2b320d1ba78fbb885abc3ea98d7
     - status :  done > passed > in referanda
 - [0xe69C88Fa3E71cD5256cfD6ceeF06d75Dd988036a](validated/0xe69C88Fa3E71cD5256cfD6ceeF06d75Dd988036a.md)
-    - motion : 37
+    - motion : 48
     - proposal hash : 0x87382070aa36431723d01aeb2105c072c0e8f70460dc81cdb7e13759c1534791
     - status :  in vote
 - [0xe507bd10c075b86e9d12227f8d44005c466f9c00](validated/0xe507bd10c075b86e9d12227f8d44005c466f9c00.md)
